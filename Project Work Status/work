@@ -1,0 +1,11 @@
+1) admin Login 
+	register and login asusual
+2)for waiter
+	/user/login
+	and login with created member manager 
+	e.g. username - Waiter and pass - waiter
+3)for kitchen 
+	/user/login
+	same as kitchen and kitchen pass 
+
+TRY IT 
